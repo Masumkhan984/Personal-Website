@@ -40,7 +40,7 @@ p{
 }
 .button{
     text-decoration: none;
-    background-image:linear-gradient(rgb(255, 197, 71), rgb(157, 255, 0)) ;
+    background-image:linear-gradient(rgb(255, 197, 71), rgb(201, 216, 176)) ;
    color: rgb(124, 117, 117);
    border-radius: 10px;
    font-weight: 700;
@@ -115,7 +115,7 @@ p{
 }
 button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 197, 71), rgb(157, 255, 0));
+    background-image:linear-gradient(rgb(255, 197, 71), rgb(201, 216, 176));
     color: rgb(59, 57, 57);
     border-radius: 29px;
     font-weight: 100;
