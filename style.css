@@ -69,7 +69,7 @@ p{
     float: left;
     justify-content: space-between;
 }
- .column{
+ .container{
     background-color: rgb(158, 139, 158);
     border-radius: 20px;
     margin: 5px 5px;
